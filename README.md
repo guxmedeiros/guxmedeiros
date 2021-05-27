@@ -9,6 +9,7 @@ I've been in love with technology since I was a kid and I always loved learning 
 - 🧑‍💻 Doing a FullStack Bootcamp in SERRATEC.
 
 Reach me out 👇
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guxmedeiros/)](https://www.linkedin.com/in/guxmedeiros/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtogustavommoyses@gmail.com)](mailto:gustavommoyses@gmail.com)
 
 <a href="https://github.com/guxmedeiros"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxmedeiros&layout=compact&theme=dark"/></a>
