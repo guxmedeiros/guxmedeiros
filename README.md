@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello!
+## Hello! 👋
 
 My name is Gustavo Medeiros, I'm from Rio de Janeiro, Brazil 🇧🇷 I'm a computer science student, and currently studying API Restful.
 
