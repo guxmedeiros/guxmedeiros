@@ -10,10 +10,18 @@ I've been in love with technology since I was a kid and I always loved learning 
 
 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guxmedeiros/)](https://www.linkedin.com/in/guxmedeiros/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtogustavommoyses@gmail.com)](mailto:gustavommoyses@gmail.com)
+ <div> 
+  <a href = "mailto: gustavommoyses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guxmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guxmedeiros&include_all_commits&theme=radical&include_all_commits) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxmedeiros&layout=compact&theme=radical)](https://github.com/guxmedeiros/github-readme-stats)
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guxmedeiros/)](https://www.linkedin.com/in/guxmedeiros/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtogustavommoyses@gmail.com)](mailto:gustavommoyses@gmail.com)-->
 
 <!--
 **guxmedeiros/guxmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
