@@ -1,6 +1,6 @@
 ## Hello! 👋
 <div>
-My name is Gustavo Medeiros, I'm from Rio de Janeiro, Brazil 🇧🇷 I'm a computer science student, and currently studying API Restful.
+My name is Gustavo Medeiros, I'm from Rio de Janeiro, Brazil 🇧🇷 I'm a computer science student, and currently studying React Native.
 
 I've been in love with technology since I was a kid and I always loved learning things I didn't know.
 
