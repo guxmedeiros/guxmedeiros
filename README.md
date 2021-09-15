@@ -6,7 +6,6 @@ I've been in love with technology since I was a kid and I always loved learning 
 
 - 📍From Teresopolis, RJ, Brazil.
 - 🧑‍🎓 Studying Computer Science in UNIFESO.
-- 🧑‍💻 Doing a FullStack Bootcamp in SERRATEC.
 </div>
 
 <div>
