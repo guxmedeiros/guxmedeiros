@@ -6,6 +6,7 @@ I've been in love with technology since I was a kid and I always loved learning 
 
 - 📍From Teresopolis, RJ, Brazil.
 - 🧑‍🎓 Studying Computer Science in UNIFESO.
+- 👔 Working as a Trainee Developer.
 </div>
 
 <div>
