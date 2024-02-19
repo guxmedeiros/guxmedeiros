@@ -1,9 +1,5 @@
 ## Hello! 👋
 <div>
-My name is Gustavo Medeiros, I'm from Teresópolis, Rio de Janeiro 🇧🇷 I'm graduated in computer science, and currently studying VueJS.
-
-I've been in love with technology since I was a kid and I always loved learning things I didn't know.
-
 - 📍From Teresopolis, RJ, Brazil.
 - 🎓 Graduated in Computer Science.
 - 👔 Working as a Junior Developer.
