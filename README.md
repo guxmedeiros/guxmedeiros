@@ -1,7 +1,10 @@
 ## Hello! 👋
 <div>
+
 - 📍From Teresopolis, RJ, Brazil.
+
 - 🎓 Graduated in Computer Science.
+
 - 👔 Working as a Junior Developer.
 </div>
 
