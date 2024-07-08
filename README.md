@@ -1,11 +1,11 @@
 ## Hello! 👋
 <div>
 
-- 📍From Teresopolis, RJ, Brazil.
+- 📍 From Teresopolis, RJ, Brazil.
 
 - 🎓 Graduated in Computer Science.
 
-- 👔 Working as a Junior Developer.
+<!--- 👔 Working as a Junior Developer. -->
 </div>
 
 <div>
@@ -15,11 +15,13 @@ Reach me out 👇
   <a href="https://www.linkedin.com/in/guxmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--
  <div>
   <a href="https://github.com/guxmedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guxmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxmedeiros&layout=compact&langs_count=16&theme=dracula"/>
 <div>
+-->
 
 <!--![Snake animation](https://github.com/guxmedeiros/guxmedeiros/blob/output/github-contribution-grid-snake.svg)-->
  
