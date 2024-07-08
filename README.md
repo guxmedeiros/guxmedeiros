@@ -5,6 +5,7 @@
 
 - 🎓 Graduated in Computer Science.
 
+- 💻 Currently studying Java.
 <!--- 👔 Working as a Junior Developer. -->
 </div>
 
