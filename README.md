@@ -1,6 +1,7 @@
 ## Hi there, I'm Gus! 👋
 
-Building modern web applications with Spring Boot and React.
+Building modern web applications with Spring Boot and React.  
+I also like to play with cybersec and devops.
 
 📍 Rio de Janeiro, RJ, Brazil  
 🎓 Computer Science graduate
