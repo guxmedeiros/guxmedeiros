@@ -1,42 +1,23 @@
-## Hello! 👋
-<div>
+## Hi there, I'm Gus! 👋
 
-- 📍 From Teresopolis, RJ, Brazil.
+Building modern web applications with Spring Boot and React.
 
-- 🎓 Graduated in Computer Science.
+📍 Rio de Janeiro, RJ, Brazil  
+🎓 Computer Science graduate
 
-- 💻 Currently studying Java.
-<!--- 👔 Working as a Junior Developer. -->
-</div>
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div>
-Reach me out 👇
- 
-  <a href = "mailto: gustavommoyses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guxmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Reach me out 👇
+<a href = "mailto: gustavommoyses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guxmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-<!--
- <div>
-  <a href="https://github.com/guxmedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guxmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxmedeiros&layout=compact&langs_count=16&theme=dracula"/>
-<div>
--->
+---
+🐧 *I use Arch btw*
 
-<!--![Snake animation](https://github.com/guxmedeiros/guxmedeiros/blob/output/github-contribution-grid-snake.svg)-->
- 
-<!--
-**guxmedeiros/guxmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100">
